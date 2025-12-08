@@ -1,1 +1,1 @@
-httpd:2.4
+redis:latest
