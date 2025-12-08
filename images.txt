@@ -1,1 +1,1 @@
-nginx:latest
+httpd:2.4
